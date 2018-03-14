@@ -1,5 +1,4 @@
 (function(global){
-  console.log('CCCCCCCCC')
   const launchLine = Vue.component('launch',{
     props: ['content'],
     template:'<li class="flight">'+
